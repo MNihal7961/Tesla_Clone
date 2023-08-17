@@ -1,0 +1,128 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    width: 100%;
+    height: 100%;   
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 10fr 1fr;
+    background-color: black;
+}
+
+.container{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    height: 100vh;
+    position: relative;
+}
+
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    margin-left: 18px;
+    cursor: pointer;
+    width: 5%;
+}
+
+nav ul{
+    flex: 1;
+    text-align: center;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 10px 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+nav .btn{
+    color:white;
+    text-decoration: none;
+    margin-right: 18px;
+    padding: 10px;
+    
+}
+
+.content{
+    position: fixed;
+    margin-left: 40%;
+    margin-top: 7%;
+}
+
+.content h1{
+    font-size: 50px;
+    color: #fff;
+}
+
+.links{
+    position: fixed;
+    margin-top: 35%;
+    margin-left: 30%;
+}
+
+.links .custom{
+    padding: 10px 80px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(37,37,37);
+    border-radius: 30px;
+}
+
+.links .existing{
+    padding: 10px 80px;
+    text-decoration: none;
+    color:black;
+    background-color: #fff;
+    border-radius: 30px;
+}
+
+.vid{
+    width: 100%;
+    position: absolute;
+    z-index: -10;
+}
+
+
+.model3{
+    margin: 0%;
+}
+
+.foot{
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    width: 100%;
+    height: 80px;
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.foot a{
+    margin-right: 10px;
+    color: #fff;
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.foot a:hover{
+    text-shadow: 0px 0px 3px gray;
+    text-transform:initial;
+}
