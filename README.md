@@ -20,7 +20,7 @@ This project aims to replicate the design and layout of the Tesla website, provi
 To view the Tesla clone website, simply open the `index.html` file in your web browser.
 
 ## Preview
-![Tesla Clone Preview](img.png)
+![Tesla Clone Preview](image.png)
 
 ## GitHub Repository
 [GitHub Repository]([https://github.com/your-username/tesla-clone](https://github.com/MNihal7961/Tesla_Clone))
