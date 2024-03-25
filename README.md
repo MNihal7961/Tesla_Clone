@@ -20,13 +20,13 @@ This project aims to replicate the design and layout of the Tesla website, provi
 To view the Tesla clone website, simply open the `index.html` file in your web browser.
 
 ## Preview
-![Tesla Clone Preview](preview.png)
+![Tesla Clone Preview](img.png)
 
 ## GitHub Repository
 [GitHub Repository]([https://github.com/your-username/tesla-clone](https://github.com/MNihal7961/Tesla_Clone))
 
 ## Live Demo
-[Live Demo](https://your-username.github.io/tesla-clone)
+[Live Demo]([https://your-username.github.io/tesla-clone](https://mnihal7961.github.io/Tesla_Clone/))
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
