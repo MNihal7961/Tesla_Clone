@@ -23,7 +23,7 @@ To view the Tesla clone website, simply open the `index.html` file in your web b
 ![Tesla Clone Preview](preview.png)
 
 ## GitHub Repository
-[GitHub Repository](https://github.com/your-username/tesla-clone)
+[GitHub Repository]([https://github.com/your-username/tesla-clone](https://github.com/MNihal7961/Tesla_Clone))
 
 ## Live Demo
 [Live Demo](https://your-username.github.io/tesla-clone)
